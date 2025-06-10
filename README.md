@@ -1,4 +1,4 @@
-# DiabAI (8. Healthcare AI Project)
+# DiabAI (Healthcare AI Project)
 
 ## Structure
 - `logs`: Folder for weekly meeting logs.
